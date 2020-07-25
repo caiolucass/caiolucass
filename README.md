@@ -12,4 +12,4 @@ About me:
 - 🌱 I’m currently learning about JS, React and HTML/CSS in general...
 - 👯 I’m looking to collaborate on future projects that I can collaborate
 - 📫 How to reach me: https://www.linkedin.com/in/caio-lucas-3886a4140/
--->
+
