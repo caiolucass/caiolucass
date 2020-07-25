@@ -2,7 +2,7 @@
 
 I have 21 years old and I'm trying to be a front-end developer! 💜
 
-Thing I like to study:
+Things I like to study:
 - ⚛ React js
 - 📱 JavaScript
 - 🖥 Web Development
