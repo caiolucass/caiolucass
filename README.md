@@ -1,8 +1,5 @@
 ### Hi there 👋, I´m Caio Lucas.
 
-<!--
-**caiolucass/caiolucass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I have 21 years old and I'm trying to be a front-end developer! 💜
 
 Thing I like to study:
