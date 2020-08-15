@@ -1,6 +1,6 @@
 ### Hi there 👋, I´m Caio Lucas.
 
-I have 21 years old and I'm trying to be a front-end developer! 💜
+I have 21 years old and I'm trying to be a full stack developer! 💜
 
 Things I like to study:
 - ⚛ React js
