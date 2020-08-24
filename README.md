@@ -1,7 +1,7 @@
 ### Hi there 👋, I´m Caio Lucas.
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/caiolucass?style=social"/>
-<img src="https://img.shields.io/static/v1?label=gmail&color=red&style=for-the-badge&logo=GMAIL"/>
+<img src="https://img.shields.io/static/v1?label=gmail&color=red&style=sociale&logo=GMAIL"/>
 
 I have 21 years old and I'm trying to be a full stack developer! 💜
 
