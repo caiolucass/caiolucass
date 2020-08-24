@@ -1,6 +1,7 @@
 ### Hi there 👋, I´m Caio Lucas.
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/caiolucass?style=social"/>
+<img alt ="Linkedin profile" src="https://img.shields.io/linkedin/profile/caio-lucas-3886a4140?style=social"/>
 
 I have 21 years old and I'm trying to be a full stack developer! 💜
 
