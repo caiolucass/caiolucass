@@ -4,6 +4,8 @@
 
 I have 21 years old and I'm trying to be a full stack developer! 💜
 
+![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
+
 ## Things I like to study:
 - <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 - 📱 JavaScript
