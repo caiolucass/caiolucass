@@ -1,6 +1,6 @@
 ### Hi there 👋, I´m Caio Lucas.  
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/caiolucass?style=social"/> <img src="https://img.shields.io/static/v1?label=gmail&color=red&style=social&logo=GMAIL"/> <img src="https://img.shields.io/static/v1?label=linkedin&message=""&color=red&style=social&logo=LINKEDIN"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/caiolucass?style=social"/> <img src="
 
 I have 21 years old and I'm trying to be a full stack developer! 💜
 
@@ -9,7 +9,5 @@ I have 21 years old and I'm trying to be a full stack developer! 💜
 - 📱 JavaScript
 - 🖥 Web Development
 
-## About me:  
-- 🌱 I’m currently learning about JS, React and HTML/CSS in general
 
 
