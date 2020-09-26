@@ -7,7 +7,7 @@
 
 I have 21 years old and I'm trying to be a full stack developer! 💜
 
-![Caio Lucas github stats](https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&theme=radical)](https://github.com/caiolucass?tab=repositories)
+![Caio Lucas github stats](https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=demo&theme=radical)](https://github.com/caiolucass?tab=repositories)
 
 <a href=" https://github.com/anuraghazra/convoychat "> 
   <img align = " center " src = " https: // github -readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat " /> 
