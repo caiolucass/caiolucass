@@ -13,7 +13,7 @@ I have 21 years old and I'm trying to be a full stack developer! 💜
   <img align = "center" src="https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass"/>
-  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&theme=radical"/>
+  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&theme=radical ? (https://github.com/caiolucass?tab=repositories "/>
 </a>
 
 ### Language and tools
