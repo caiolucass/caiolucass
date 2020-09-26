@@ -7,7 +7,7 @@
 
 I have 21 years old and I'm trying to be a full stack developer! 💜
 
-![Caio Lucas github stats](https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&theme=radical)](https://github.com/caiolucass/github-readme-stats)
+![Caio Lucas github stats](https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&theme=radical)](https://github.com/caiolucass/github-readme)
 
 
 ### Language and tools
