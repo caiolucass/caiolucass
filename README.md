@@ -7,10 +7,7 @@
 
 I have 21 years old and I'm trying to be a full stack developer! 💜
 
-## Things I like to study:
-- <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
-- 📱 JavaScript
-- 🖥 Web Development
+![Caio Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true)
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
