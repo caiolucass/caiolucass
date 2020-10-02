@@ -7,8 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff6f9c?style=flat-square&labelColor=ff6f9c&logo=instagram&logoColor=white&link=https://www.instagram.com/caio.lucasf/?hl=pt-br)](https://www.instagram.com/caio.lucasf/?hl=pt-brb)
 
 <p align="center">
-<img src="https://github.com/caiolucass/caiolucass/blob/master/emoticon.jpg"/>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<img src="https://github.com/caiolucass/caiolucass/blob/master/emoticon.jpg"/> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
