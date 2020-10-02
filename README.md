@@ -8,7 +8,6 @@
 
 <div align="center">
 <img float = "left" src="https://github.com/caiolucass/caiolucass/blob/master/emoticon.jpg"/> 
-<h2 float = "left">Language and Tools<h2/>
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
