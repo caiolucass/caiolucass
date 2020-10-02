@@ -6,8 +6,11 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/caiolucas.9803/)](https://www.facebook.com/caiolucas.9803/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff6f9c?style=flat-square&labelColor=ff6f9c&logo=instagram&logoColor=white&link=https://www.instagram.com/caio.lucasf/?hl=pt-br)](https://www.instagram.com/caio.lucasf/?hl=pt-brb)
 
-<div align="center">
+<div align="center>
 <img height="50" src="https://github.com/caiolucass/caiolucass/blob/master/emoticon.jpg"/> 
+<div/>
+
+<div align="center">
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
