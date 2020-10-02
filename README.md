@@ -6,8 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/caiolucas.9803/)](https://www.facebook.com/caiolucas.9803/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff6f9c?style=flat-square&labelColor=ff6f9c&logo=instagram&logoColor=white&link=https://www.instagram.com/caio.lucasf/?hl=pt-br)](https://www.instagram.com/caio.lucasf/?hl=pt-brb)
 
-<h3 align="center">Language and tools</h3>
-
+<p align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -15,6 +14,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+</p>
+
+<h3 align="center">Language and tools</h3>
 
 <p align="center">
 <img src="https://github.com/caiolucass/caiolucass/blob/master/emoticon.jpg"/>
