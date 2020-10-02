@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/caiolucas.9803/)](https://www.facebook.com/caiolucas.9803/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff6f9c?style=flat-square&labelColor=ff6f9c&logo=instagram&logoColor=white&link=https://www.instagram.com/caio.lucasf/?hl=pt-br)](https://www.instagram.com/caio.lucasf/?hl=pt-brb)
 
-<img align = "center" src="https://github.com/caiolucass/caiolucass/blob/master/emoticon.jpg"/><p align="center">I have 21 years old and I'm trying to be a full stack developer! 💜</p>
+<img align = "center" src="https://github.com/caiolucass/caiolucass/blob/master/emoticon.jpg"/>
 
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
   <img align = "center" src="https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true&theme=radical"/>
