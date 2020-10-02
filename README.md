@@ -12,7 +12,7 @@
   <img align = "center" src="https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass"/>
-  <img align = "center" height="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&theme=radical"/>
+  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&theme=radical"/>
 </a>
 
 <h3 align="center">Language and tools</h3>
