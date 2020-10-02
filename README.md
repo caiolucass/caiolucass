@@ -8,7 +8,7 @@
 
 <div align="center">
 <img width="250" heigth="250" src="https://github.com/caiolucass/caiolucass/blob/master/emoticon.jpg"/> 
-  <p>Hi, my name is Caio Lucas and i´m trying to be a fullstack developer :heart:</p>
+  <p>:heart: Hi, my name is Caio Lucas and i´m trying to be a fullstack developer! :heart:</p>
 </div>
 
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
