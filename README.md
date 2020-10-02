@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff6f9c?style=flat-square&labelColor=ff6f9c&logo=instagram&logoColor=white&link=https://www.instagram.com/caio.lucasf/?hl=pt-br)](https://www.instagram.com/caio.lucasf/?hl=pt-brb)
 
 <p align="center">
-<img width="100" heigth="100" src="https://github.com/caiolucass/caiolucass/blob/master/emoticon.jpg"/> 
+<img width="250" heigth="250" src="https://github.com/caiolucass/caiolucass/blob/master/emoticon.jpg"/> 
 </p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
