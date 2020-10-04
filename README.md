@@ -1,6 +1,5 @@
 <h3 align = "center">:heart: Welcome to my profile :heart:<h3/>
 
-<p alignt="center>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caiolucass)](https://github.com/caiolucass)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-lucas-3886a4140/)](https://www.linkedin.com/in/caio-lucas-3886a4140/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&labelColor=white&logo=gmail&logoColor=ff0000&email=caiolfsantoss@gmail.com)](email:caiolfsantoss@gmail.com)
