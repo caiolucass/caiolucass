@@ -1,7 +1,7 @@
 <p aling="center>
  <img src="https://img.shields.io/static/v1?label=github&message=github&color=white&style=for-the-badge&logo=GITHUB"/> 
  <img src="https://img.shields.io/static/v1?label=linkdeIn&message=linkedIn&color=blue&style=for-the-badge&logo=LinkedIn"/> 
- <img src="https://img.shields.io/static/v1?label=gmail&message=gmail&color=white&style=for-the-badge&logo=Gmail"/>
+ <img src="https://img.shields.io/static/v1?label=gmail&message=gmail&color=white&logoColor=f0000&style=for-the-badge&logo=Gmail"/>
 </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&labelColor=white&logo=gmail&logoColor=ff0000&email=caiolfsantoss@gmail.com)](email:caiolfsantoss@gmail.com)
