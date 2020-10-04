@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=github&message=github&color=white&style=for-the-badge&logo=Github&link=https://github.com/caiolucass/>
+  <img src="https://img.shields.io/static/v1?label=github&message=github&color=white&style=for-the-badge&logo=GITHUB&link=https://github.com/caiolucass/>
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caiolucass)](https://github.com/caiolucass)
