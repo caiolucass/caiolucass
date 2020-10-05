@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <p font="prompt">:heart: Hi, my name is Caio Lucas and i´m trying to be a fullstack developer! :heart:</p>
+  <p>:heart: Hi, my name is Caio Lucas and i´m trying to be a fullstack developer! :heart:</p>
 </div>
 
 
