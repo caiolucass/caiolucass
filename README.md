@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/caiolucas.9803/">
   <img alt="caiolucass Facebook" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/spid_erwin">
+<a href="https://www.instagram.com/caio.lucasf/">
   <img alt="caiolucass Instagram" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/instagram.svg" />
 </a>
 </p>
