@@ -12,6 +12,9 @@
 <a href="https://www.instagram.com/spid_erwin">
   <img alt="caiolucass Instagram" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/instagram.svg" />
 </a>
+  <a href="https://www.instagram.com/spid_erwin">
+  <img alt="caiolucass Instagram" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/gitlab.svg" />
+</a>
 </p>
 
 <div align="center">
