@@ -20,7 +20,7 @@
 
 ### 📖 Comecei com:
 <a href="https://www.w3schools.com/java/" target="_blank"> ![Java Badge](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white)</a>
-<a href="https://www.w3schools.com/csharp/" target="_blank"> ![CSharp Badge](https://img.shields.io/badge/-CSharp-1572B6?style=flat&logo=c#3&logoColor=white)</a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> ![CS Badge](https://img.shields.io/badge/-CS-1572B6?style=flat&logo=cs3&logoColor=white)</a>
 <a href="https://www.w3schools.com/html/" target="_blank"> ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)</a>
 
