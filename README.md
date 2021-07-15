@@ -34,9 +34,9 @@
 
 ### 📚 Conhecimento:
 <a href="https://www.w3schools.com/java/" target="_blank"> ![Java Badge](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)</a>
-<a href="https://git-scm.com" target="_blank"> ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)</a>
+<a href="https://git-scm.com" target="_blank"> ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)</a>
 <a href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
-<a href="https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> ![OracleSql Badge](https://img.shields.io/badge/-OracleSql-red?style=flat&logo=oraclee&logoColor=white)</a>
+<a href="https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> ![Oracle Sql Badge](https://img.shields.io/badge/-OracleSql-red?style=flat&logo=oraclee&logoColor=white)</a>
 
 <p align="center>
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
