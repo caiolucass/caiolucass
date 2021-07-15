@@ -1,5 +1,3 @@
- ### :link: Redes Sociais:
-  
 <p align="center">
 <br/>
 <a href="https://github.com/caiolucass">
