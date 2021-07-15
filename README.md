@@ -25,7 +25,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)</a>
 
 ### 🚀 Estudado:
-<a href="https://developer.apple.com/swift/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-E34F26?style=flat&logo=swift&logoColor=white)</a>
+<a href="https://reactjs.org/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)</a>
 
 <p align="center>
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
