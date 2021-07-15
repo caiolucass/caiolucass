@@ -1,7 +1,7 @@
+ ### :link: Redes Sociais:
+  
 <p align="center">
 <br/>
-   ### :link: Redes Sociais:
-  
 <a href="https://github.com/caiolucass">
   <img alt="caiolucass GitHub" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/github.svg" />
 </a>
