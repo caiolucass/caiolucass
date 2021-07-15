@@ -26,7 +26,7 @@
 
 ### 🚀 Estudado:
 <a href="https://reactjs.org/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-blue?style=flat&logo=JavaScript&logoColor=white)</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)</a>
 
 <p align="center>
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
