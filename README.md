@@ -1,5 +1,7 @@
 <p align="center">
 <br/>
+   ### :link: Redes Sociais:
+  
 <a href="https://github.com/caiolucass">
   <img alt="caiolucass GitHub" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/github.svg" />
 </a>
@@ -36,7 +38,7 @@
 <a href="https://www.w3schools.com/java/" target="_blank"> ![Java Badge](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)</a>
 <a href="https://git-scm.com" target="_blank"> ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)</a>
 <a href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
-<a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> ![IntelliJ Badge](https://img.shields.io/badge/-IntelliJ-007ACC?style=flat&logo=intelliJe&logoColor=white)</a>
+<a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> ![IntelliJ Badge](https://img.shields.io/badge/-IntelliJ-grey?style=flat&logo=intelliJe&logoColor=white)</a>
 
 <p align="center>
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
