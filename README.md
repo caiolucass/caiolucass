@@ -1,4 +1,4 @@
-<div align="center" font-size=22px>
+<div align="center">
   <p>:heart: Hi, my name is Caio Lucas and i´m trying to be a fullstack developer! :heart:</p>
 </div>
 
