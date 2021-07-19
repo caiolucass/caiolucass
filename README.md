@@ -19,6 +19,10 @@
   <a href="https://open.spotify.com/user/12155708920?si=856b3fc22d154961">
   <img alt="caiolucass Instagram" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/spotify.png" />
 </a>
+</a>
+  <a href="https://steamcommunity.com/profiles/76561198221544560/">
+  <img alt="caiolucass Steam" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/spotify.png" />
+</a>
 </p>
 
 ### 📖 Comecei com:
