@@ -1,3 +1,7 @@
+<div align="center">
+  <p>:heart: Hi, my name is Caio Lucas and i´m trying to be a fullstack developer! :heart:</p>
+</div>
+
 <p align="center">
 <br/>
 <a href="https://github.com/caiolucass">
@@ -16,11 +20,6 @@
   <img alt="caiolucass Instagram" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/spotify.png" />
 </a>
 </p>
-
-<div align="center">
-  <p>:heart: Hi, my name is Caio Lucas and i´m trying to be a fullstack developer! :heart:</p>
-</div>
-
 ### 📖 Comecei com:
 <a href="https://www.w3schools.com/java/" target="_blank"> ![Java Badge](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![CS Badge](https://img.shields.io/badge/-CS-1572B6?style=flat&logo=cs3&logoColor=white)</a>
