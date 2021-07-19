@@ -21,7 +21,7 @@
 </a>
 </a>
   <a href="https://steamcommunity.com/profiles/76561198221544560/">
-  <img alt="caiolucass Steam" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/steam.png" />
+  <img alt="caiolucass Steam" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/steam-logo.png" />
 </a>
 </p>
 
