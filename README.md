@@ -1,6 +1,5 @@
-<div align="center">
+<div align="center" font-size=22px>
   <p>:heart: Hi, my name is Caio Lucas and i´m trying to be a fullstack developer! :heart:</p>
-  <p font-weight: bold>Me siga em minhas redes sociais</p>
 </div>
 
 <p align="center">
