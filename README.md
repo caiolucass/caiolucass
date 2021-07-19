@@ -12,6 +12,9 @@
 <a href="https://www.instagram.com/caio.lucasf/">
   <img alt="caiolucass Instagram" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/instagram.svg" />
 </a>
+  <a href="https://open.spotify.com/user/12155708920?si=856b3fc22d154961">
+  <img alt="caiolucass Instagram" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/spotify.svg" />
+</a>
 </p>
 
 <div align="center">
