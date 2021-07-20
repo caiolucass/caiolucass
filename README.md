@@ -47,6 +47,8 @@
 <a href="https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> ![OracleSql Badge](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle&logoColor=white)</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![CSharp Badge](https://img.shields.io/badge/-CSharp-1572B6?style=flat&logo=csharp&logoColor=white)</a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> ![Maven Badge](https://img.shields.io/badge/-Maven-1572B6?style=flat&logo=maven&logoColor=white)</a>
+
 
 <p align="center>
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
