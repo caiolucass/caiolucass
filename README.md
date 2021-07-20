@@ -51,7 +51,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Apache Maven Badge](https://img.shields.io/badge/-ApacheMaven-purple?style=flat&logo=apachemaven&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-blue?style=flat&logo=bootstrap&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![SASS Badge](https://img.shields.io/badge/-SASS-pink?style=flat&logo=sass&logoColor=white)</a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> ![Prime Faces Badge](https://img.shields.io/badge/-Prime Faces-pink?style=flat&logo=primefaces&logoColor=white)</a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> ![PrimeFaces Badge](https://img.shields.io/badge/-Prime Faces-pink?style=flat&logo=primefaces&logoColor=white)</a>
 
 <p align="center>
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
