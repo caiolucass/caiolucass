@@ -46,7 +46,6 @@
 <a href="https://git-scm.com" target="_blank"> ![GitLab Badge](https://img.shields.io/badge/-GitLab-orange?style=flat&logo=git&logoColor=white)</a>
 <a href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
 <a href="https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> ![OracleSql Badge](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle&logoColor=white)</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![CSharp Badge](https://img.shields.io/badge/-CSharp-1572B6?style=flat&logo=csharp&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Apache Maven Badge](https://img.shields.io/badge/-ApacheMaven-purple?style=flat&logo=apachemaven&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-blue?style=flat&logo=bootstrap&logoColor=white)</a>
