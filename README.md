@@ -13,11 +13,11 @@
 <a href="https://www.facebook.com/caiolucas.9803/">
   <img alt="caiolucass Facebook" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/caio.lucasf/">
+<a href="https://www.instagram.com/caiolluccass/">
   <img alt="caiolluccass Instagram" width="35px" src="https://github.com/caiolluccass/caiolluccass/blob/master/instagram.svg" />
 </a>
   <a href="https://open.spotify.com/user/12155708920?si=856b3fc22d154961">
-  <img alt="caiolucass Instagram" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/spotify.png" />
+  <img alt="caiolucass Spotify" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/spotify.png" />
 </a>
 </a>
   <a href="https://steamcommunity.com/profiles/76561198221544560/">
