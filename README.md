@@ -1,5 +1,5 @@
 <div align="center">
-  <p>:heart: Hi, my name is Caio Lucas and i´m trying to be a fullstack developer! :heart:</p>
+  <p>:heart: Hi, my name is Caio Lucas and i´m trying to be a great developer with focus on backend developer and software architecture! :heart:</p>
 </div>
 
 <p align="center">
