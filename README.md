@@ -2,25 +2,6 @@
   <p>:heart: Hi, my name is Caio Lucas and i´m trying to be a great developer with focus on backend development and software architecture! :heart:</p>
 </div>
 
-<p align="center">
-<br/>
-<a href="https://github.com/caiolucass">
-  <img alt="caiolucass GitHub" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/caio-lucas-3886a4140/">
-  <img alt="caiolucass LinkdeIN" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/caiolucas.9803/">
-  <img alt="caiolucass Facebook" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/facebook.svg" />
-</a>
-  <a href="https://open.spotify.com/user/12155708920?si=856b3fc22d154961">
-  <img alt="caiolucass Spotify" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/spotify.png" />
-</a>
-</a>
-  <a href="https://steamcommunity.com/profiles/76561198221544560/">
-  <img alt="caiolucass Steam" width="35px" src="https://github.com/caiolucass/caiolucass/blob/master/steam-logo.png" />
-</a>
-</p>
 
 ### 🚀 Estudando:
 <a href="https://reactjs.org/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)</a>
