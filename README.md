@@ -1,15 +1,13 @@
 <div align="center">
-  <p>:heart: Hi, my name is Caio Lucas and i´m trying to be a great developer with focus on backend development and software architecture! :heart:</p>
+  <h2>:heart: Hi, my name is Caio Lucas and i´m trying to be a great developer with focus on backend development and software architecture! :heart:</h2>
 </div>
 
-
+<div align="center">
 ### 🚀 Estudando:
-<a href="https://reactjs.org/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)</a>
 <a href="https://nodejs.org" target="_blank"> ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)</a>
 <a href="https://www.w3schools.com/java/" target="_blank"> ![Java Badge](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)</a>
 <a href="https://www.w3schools.com/spring/" target="_blank"> ![Spring Badge](https://img.shields.io/badge/-Spring-339933?style=flat&logo=spring&logoColor=white)</a>
-
 
 ### 📚 Conhecimento:
 <a href="https://www.w3schools.com/java/" target="_blank"> ![Java Badge](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)</a>
@@ -20,7 +18,8 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Apache Maven Badge](https://img.shields.io/badge/-ApacheMaven-purple?style=flat&logo=apachemaven&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Spring Badge](https://img.shields.io/badge/-Spring-green?style=flat&logo=spring&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Postgres Badge](https://img.shields.io/badge/-PostgresSQL-blue?style=flat&logo=postgressql&logoColor=white)</a>
-
+<a href="https://www.w3schools.com/cs/" target="_blank"> ![Postgres Badge](https://img.shields.io/badge/-PostgresSQL-blue?style=flat&logo=postgressql&logoColor=white)</a>
+</div>
 
 <p align="center>
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
