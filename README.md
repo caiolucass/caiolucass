@@ -1,9 +1,8 @@
 <div align="center">
-  <h2>:heart: Hi, my name is Caio Lucas and i´m trying to be a great developer with focus on backend development and software architecture! :heart:</h2>
+  <h2>Hi, my name is Caio Lucas and i´m trying to be a great developer with focus on backend development and software architecture!</h2>
 </div>
 
 <div align="center">
-
 ### 🚀 Estudando:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)</a>
 <a href="https://nodejs.org" target="_blank"> ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)</a>
