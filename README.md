@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+
 ### 🚀 Estudando:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)</a>
 <a href="https://nodejs.org" target="_blank"> ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)</a>
@@ -17,7 +18,6 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![CSharp Badge](https://img.shields.io/badge/-CSharp-1572B6?style=flat&logo=csharp&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Apache Maven Badge](https://img.shields.io/badge/-ApacheMaven-purple?style=flat&logo=apachemaven&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Spring Badge](https://img.shields.io/badge/-Spring-green?style=flat&logo=spring&logoColor=white)</a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> ![Postgres Badge](https://img.shields.io/badge/-PostgresSQL-blue?style=flat&logo=postgressql&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Postgres Badge](https://img.shields.io/badge/-PostgresSQL-blue?style=flat&logo=postgressql&logoColor=white)</a>
 </div>
 
