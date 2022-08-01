@@ -21,11 +21,11 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Postgres Badge](https://img.shields.io/badge/-PostgresSQL-blue?style=flat&logo=postgressql&logoColor=white)</a>
 </div>
 
-<p align="center>
+<div align="center>
 <a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
   <img src="https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&theme=radical"/>
 </a>
-</p>
+</div>
