@@ -22,12 +22,6 @@
 </a>
 </p>
 
-### 📖 Comecei com:
-<a href="https://www.w3schools.com/java/" target="_blank"> ![Java Badge](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)</a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> ![CSharp Badge](https://img.shields.io/badge/-Csharp-1572B6?style=flat&logo=csharp&logoColor=white)</a>
-<a href="https://www.w3schools.com/html/" target="_blank"> ![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)</a>
-<a href="https://www.w3schools.com/css3/" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)</a>
-
 ### 🚀 Estudando:
 <a href="https://reactjs.org/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)</a>
