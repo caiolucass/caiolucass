@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+
 ### 🚀 Estudando:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white)</a>
 <a href="https://nodejs.org" target="_blank"> ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)</a>
