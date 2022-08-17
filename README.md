@@ -22,9 +22,6 @@
 </div>
 
 <div align="center>
-<a href="https://github-readme-stats.vercel.app/api?username=caiolucass">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true&theme=radical"/>
-</a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&theme=radical"/>
 </a>
