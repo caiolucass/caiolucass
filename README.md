@@ -21,8 +21,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Postgres Badge](https://img.shields.io/badge/-PostgresSQL-blue?style=flat&logo=postgressql&logoColor=white)</a>
 </div>
 
-<div align="center>
-
+<div align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&theme=radical"/>
 </a>
