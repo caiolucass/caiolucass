@@ -18,4 +18,5 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Apache Maven Badge](https://img.shields.io/badge/-ApacheMaven-purple?style=flat&logo=apachemaven&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Spring Badge](https://img.shields.io/badge/-Spring-green?style=flat&logo=spring&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Postgres Badge](https://img.shields.io/badge/-PostgresSQL-blue?style=flat&logo=postgressql&logoColor=white)</a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> ![Postgres Badge](https://img.shields.io/badge/-MongoSQL-blue?style=flat&logo=mongosql&logoColor=white)</a>
 </div>
