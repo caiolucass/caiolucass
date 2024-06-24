@@ -5,12 +5,12 @@
 <div align="center">
 
 ### 🚀 Estudando:
-<a href="https://nodejs.org" target="_blank"> ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)</a>
 <a href="https://www.w3schools.com/java/" target="_blank"> ![Java Badge](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)</a>
 <a href="https://www.w3schools.com/spring/" target="_blank"> ![Spring Badge](https://img.shields.io/badge/-Spring-339933?style=flat&logo=spring&logoColor=white)</a>
 
 ### 📚 Conhecimento:
 <a href="https://www.w3schools.com/java/" target="_blank"> ![Java Badge](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)</a>
+<a href="https://www.w3schools.com/cs/" target="_blank"> ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-1572B6?style=flat&logo=csharp&logoColor=white)</a>
 <a href="https://git-scm.com" target="_blank"> ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)</a>
 <a href="https://git-scm.com" target="_blank"> ![GitLab Badge](https://img.shields.io/badge/-GitLab-orange?style=flat&logo=git&logoColor=white)</a>
 <a href="https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> ![OracleSql Badge](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle&logoColor=white)</a>
