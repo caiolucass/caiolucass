@@ -16,6 +16,6 @@
 <a href="https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> ![OracleSql Badge](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle&logoColor=white)</a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> ![Apache Maven Badge](https://img.shields.io/badge/-ApacheMaven-purple?style=flat&logo=apachemaven&logoColor=white)</a>
 <a href="https://www.w3schools.com/spring/" target="_blank"> ![Spring Badge](https://img.shields.io/badge/-Spring-339933?style=flat&logo=spring&logoColor=white)</a>
-<a href="https://www.w3schools.com/postgres/" target="_blank"> ![Postgres Badge](https://img.shields.io/badge/-PostgresSQL-blue?style=flat&logo=postgressql&logoColor=white)</a>
-<a href="https://www.w3schools.com/mongo/" target="_blank"> ![Mongo Badge](https://img.shields.io/badge/-MongoSQL-green?style=flat&logo=mongosql&logoColor=white)</a>
+<a href="https://www.w3schools.com/postgres/" target="_blank"> ![Postgres Badge](https://img.shields.io/badge/-PostgresSQL-blue?style=flat&logo=postgres&logoColor=white)</a>
+<a href="https://www.w3schools.com/mongo/" target="_blank"> ![Mongo Badge](https://img.shields.io/badge/-MongoSQL-green?style=flat&logo=mongo&logoColor=white)</a>
 </div>
