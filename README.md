@@ -43,8 +43,8 @@
   alt="mongo"
 />
 <img
-  src="https://img.shields.io/badge/postgres-darkblue?style=for-the-badge&logo=postgres&logoColor=white"
-  alt="postgres"
+  src="https://img.shields.io/badge/postgresql-darkblue?style=for-the-badge&logo=postgresql&logoColor=white"
+  alt="postgresql"
 />
 <img
   src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"
