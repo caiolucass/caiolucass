@@ -31,7 +31,7 @@
   alt="oracle"
 />
 <img
-  src="https://img.shields.io/badge/mongo-green?style=for-the-badge&logo=mongo&logoColor=white"
+  src="https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongo&logoColor=white"
   alt="mongo"
 />
 <img
