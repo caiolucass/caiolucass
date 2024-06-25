@@ -22,7 +22,7 @@
   alt="kotlin"
 />
 <img
-  src="https://img.shields.io/badge/apachekafka-red?style=for-the-badge&logo=apache kafka&logoColor=white"
+  src="https://img.shields.io/badge/apache kafka-red?style=for-the-badge&logo=apachekafka&logoColor=white"
   alt="apachekafka"
 />
 <img
