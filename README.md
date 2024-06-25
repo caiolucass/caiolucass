@@ -10,14 +10,14 @@
 
 ### Backend 
 <img
-  src="https://img.shields.io/badge/.Java-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
+  src="https://img.shields.io/badge/.Java-5C2D91?style=for-the-badge&logo=.Java&logoColor=white"
   alt="Java"
 />
 <img
-  src="https://img.shields.io/badge/Kotlin.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"
+  src="https://img.shields.io/badge/Kotlin-6DA55F?style=for-the-badge&amp;logo=kotlin.js&amp;logoColor=white"
   alt="Kotlin"
 />
 <img
-  src="https://img.shields.io/badge/C#-14354C?style=for-the-badge&logo=c&logoColor=white"
+  src="https://img.shields.io/badge/C#-14354C?style=for-the-badge&logo=csharp&logoColor=white"
   alt="CSharp"
 />
