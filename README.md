@@ -24,6 +24,14 @@
   src="https://img.shields.io/badge/csharp-blue?style=for-the-badge&logo=csharp&logoColor=white"
   alt="csharp"
 />
+<img
+  src="https://img.shields.io/badge/gradle-blue?style=for-the-badge&logo=gradle&logoColor=white"
+  alt="gradle"
+/>
+<img
+  src="https://img.shields.io/badge/maven-orange?style=for-the-badge&logo=maven&logoColor=white"
+  alt="maven"
+/>
 
 ### Databases
 <img
