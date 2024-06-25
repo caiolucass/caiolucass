@@ -65,3 +65,13 @@
   alt="azure devops"
 />
 
+### Observability
+<img
+  src="https://img.shields.io/badge/newrelic-darkgreen?style=for-the-badge&logo=newrelic&logoColor=white"
+  alt="newrelic"
+/>
+<img
+  src="https://img.shields.io/badge/dynatrace-yellow?style=for-the-badge&logo=dynatrace&logoColor=white"
+  alt="dynatrace"
+/>
+
