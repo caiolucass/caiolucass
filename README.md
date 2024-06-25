@@ -27,7 +27,15 @@
 
 ### Databases
 <img
-  src="https://img.shields.io/badge/oracle sql-red?style=for-the-badge&logo=oracle&logoColor=white"
+  src="https://img.shields.io/badge/oracle-red?style=for-the-badge&logo=oracle&logoColor=white"
   alt="oracle"
+/>
+<img
+  src="https://img.shields.io/badge/mongo-green?style=for-the-badge&logo=mongo&logoColor=white"
+  alt="mongo"
+/>
+<img
+  src="https://img.shields.io/badge/postgres-darkblue?style=for-the-badge&logo=postgres&logoColor=white"
+  alt="postgres"
 />
 
