@@ -10,11 +10,11 @@
 
 ### Backend 
 <img
-  src="https://img.shields.io/badge/.Java-5C2D91?style=for-the-badge&logo=.Java&logoColor=white"
+  src="https://img.shields.io/badge/.Java-red?style=for-the-badge&logo=.Java&logoColor=white"
   alt="Java"
 />
 <img
-  src="https://img.shields.io/badge/Kotlin-6DA55F?style=for-the-badge&amp;logo=kotlin.js&amp;logoColor=white"
+  src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&amp;logo=kotlin.js&amp;logoColor=white"
   alt="Kotlin"
 />
 <img
