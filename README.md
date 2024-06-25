@@ -8,12 +8,16 @@
 <a href="https://www.w3schools.com/java/" target="_blank"> ![Java Badge](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)</a>
 <a href="https://www.w3schools.com/spring/" target="_blank"> ![Spring Badge](https://img.shields.io/badge/-Spring-339933?style=flat&logo=spring&logoColor=white)</a>
 
-### 📚 Conhecimento:
-<a href="https://www.w3schools.com/java/" target="_blank"> ![Java Badge](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)</a>
-<a href="https://www.w3schools.com/kotlin/" target="_blank"> ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-1572B6?style=flat&logo=kotlin&logoColor=white)</a>
-<a href="https://git-scm.com" target="_blank"> ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white)</a>
-<a href="https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html" target="_blank"> ![OracleSql Badge](https://img.shields.io/badge/-Oracle-red?style=flat&logo=oracle&logoColor=white)</a>
-<a href="https://www.w3schools.com/spring/" target="_blank"> ![Spring Badge](https://img.shields.io/badge/-Spring-339933?style=flat&logo=spring&logoColor=white)</a>
-<a href="https://www.w3schools.com/postgres/" target="_blank"> ![Postgres Badge](https://img.shields.io/badge/-PostgresSQL-blue?style=flat&logo=postgres&logoColor=white)</a>
-<a href="https://www.w3schools.com/mongo/" target="_blank"> ![Mongo Badge](https://img.shields.io/badge/-MongoSQL-green?style=flat&logo=mongo&logoColor=white)</a>
-</div>
+### Backend 
+<img
+  src="https://img.shields.io/badge/.Java-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
+  alt="NET"
+/>
+<img
+  src="https://img.shields.io/badge/Kotlin.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"
+  alt="NodeJS"
+/>
+<img
+  src="https://img.shields.io/badge/C#-14354C?style=for-the-badge&logo=c&logoColor=white"
+  alt="Python"
+/>
