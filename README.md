@@ -11,13 +11,13 @@
 ### Backend 
 <img
   src="https://img.shields.io/badge/.Java-5C2D91?style=for-the-badge&logo=.net&logoColor=white"
-  alt="NET"
+  alt="Java"
 />
 <img
   src="https://img.shields.io/badge/Kotlin.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"
-  alt="NodeJS"
+  alt="Kotlin"
 />
 <img
   src="https://img.shields.io/badge/C#-14354C?style=for-the-badge&logo=c&logoColor=white"
-  alt="Python"
+  alt="CSharp"
 />
