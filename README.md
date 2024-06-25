@@ -10,7 +10,7 @@
 
 ### Backend 
 <img
-  src="https://img.shields.io/badge/.Java-red?style=for-the-badge&logo=.Java&logoColor=white"
+  src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=.Java&logoColor=white"
   alt="Java"
 />
 <img
