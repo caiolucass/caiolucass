@@ -49,7 +49,7 @@
   alt="jenkins"
 />
 <img
-  src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white"
+  src="https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white"
   alt="git"
 />
 <img
