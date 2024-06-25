@@ -53,7 +53,7 @@
   alt="git"
 />
 <img
-  src="https://img.shields.io/badge/azure devops-blue?style=for-the-badge&logo=azure&logoColor=white"
+  src="https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=azure&logoColor=red"
   alt="azure devops"
 />
 
