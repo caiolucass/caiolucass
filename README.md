@@ -18,6 +18,6 @@
   alt="Kotlin"
 />
 <img
-  src="https://img.shields.io/badge/C#-14354C?style=for-the-badge&logo=csharp&logoColor=white"
+  src="https://img.shields.io/badge/C#-14354C?style=for-the-badge&logo=c#&logoColor=white"
   alt="CSharp"
 />
