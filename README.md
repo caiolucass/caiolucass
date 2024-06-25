@@ -51,6 +51,13 @@
   alt="mysql"
 />
 
+
+### Cloud
+<img
+  src="https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=aws&logoColor=white"
+  alt="aws"
+/>
+
 ### CI/CD
 <img
   src="https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins&logoColor=white"
