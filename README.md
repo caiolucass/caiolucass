@@ -19,5 +19,5 @@
 />
 <img
   src="https://img.shields.io/badge/csharp-14354C?style=for-the-badge&logo=c#&logoColor=white"
-  alt="c#"
+  alt="csharp"
 />
