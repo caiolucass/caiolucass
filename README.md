@@ -22,8 +22,8 @@
   alt="kotlin"
 />
 <img
-  src="https://img.shields.io/badge/kafka-red?style=for-the-badge&logo=kafka&logoColor=white"
-  alt="kafka"
+  src="https://img.shields.io/badge/apachekafka-red?style=for-the-badge&logo=apachekafka&logoColor=white"
+  alt="apachekafka"
 />
 <img
   src="https://img.shields.io/badge/csharp-14354C?style=for-the-badge&logo=csharp&logoColor=white"
