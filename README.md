@@ -38,4 +38,8 @@
   src="https://img.shields.io/badge/postgres-darkblue?style=for-the-badge&logo=postgres&logoColor=white"
   alt="postgres"
 />
+<img
+  src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"
+  alt="mysql"
+/>
 
