@@ -39,8 +39,8 @@
   alt="oracle"
 />
 <img
-  src="https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongo&logoColor=white"
-  alt="mongo"
+  src="https://img.shields.io/badge/mongoDB-green?style=for-the-badge&logo=mongoDB&logoColor=white"
+  alt="mongoDB"
 />
 <img
   src="https://img.shields.io/badge/postgresql-darkblue?style=for-the-badge&logo=postgresql&logoColor=white"
