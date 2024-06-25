@@ -43,3 +43,17 @@
   alt="mysql"
 />
 
+### CI/CD
+<img
+  src="https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins&logoColor=white"
+  alt="jenkins"
+/>
+<img
+  src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white"
+  alt="git"
+/>
+<img
+  src="https://img.shields.io/badge/azure devops-blue?style=for-the-badge&logo=azure&logoColor=white"
+  alt="azure devops"
+/>
+
