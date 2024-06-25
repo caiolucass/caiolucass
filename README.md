@@ -1,7 +1,4 @@
-<div align="center">
-  <h2>Hi, my name is Caio Lucas and i´m trying to be a great developer with focus on backend development and software architecture!</h2>
-</div>
-
+### Hi, my name is Caio Lucas and i´m trying to be a great developer with focus on backend development and software architecture!
 
 ### Backend 
 <img
