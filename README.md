@@ -40,7 +40,7 @@
   alt="mongoDB"
 />
 <img
-  src="https://img.shields.io/badge/postgresql-darkblue?style=for-the-badge&logo=postgresql&logoColor=white"
+  src="https://img.shields.io/badge/postgresql-gray?style=for-the-badge&logo=postgresql&logoColor=white"
   alt="postgresql"
 />
 <img
