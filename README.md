@@ -51,7 +51,7 @@
 
 ### Cloud
 <img
-  src="https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=aws&logoColor=white"
+  src="https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=awscloud&logoColor=white"
   alt="aws"
 />
 
