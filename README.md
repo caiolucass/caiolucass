@@ -65,8 +65,8 @@
   alt="git"
 />
 <img
-  src="https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=azure&logoColor=red"
-  alt="azure devops"
+  src="https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=azuredevops&logoColor=red"
+  alt="azure"
 />
 
 ### Observability
