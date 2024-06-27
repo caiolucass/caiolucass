@@ -48,10 +48,9 @@
   alt="mysql"
 />
 
-
 ### Cloud
 <img
-  src="https://img.shields.io/badge/AmazonWebServices-orange?style=for-the-badge&logo=AmazonWebServiced&logoColor=white"
+  src="https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=amazon&logoColor=white"
   alt="aws"
 />
 
