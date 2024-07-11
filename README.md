@@ -18,8 +18,8 @@
   alt="apachekafka"
 />
 <img
-  src="https://img.shields.io/badge/csharp-blue?style=for-the-badge&logo=csharp&logoColor=white"
-  alt="csharp"
+  src="https://img.shields.io/badge/.net-blue?style=for-the-badge&logo=.net&logoColor=white"
+  alt=".net"
 />
 <img
   src="https://img.shields.io/badge/gradle-blue?style=for-the-badge&logo=gradle&logoColor=white"
