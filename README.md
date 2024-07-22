@@ -1,7 +1,7 @@
 ### Hi, my name is Caio Lucas and i´m trying to be a great developer with focus on backend development and software architecture!
 
 <table>
- <a href="https://github.com/danielcandidocruz">
+ <a href="https://github.com/caiolucass">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&langs_count=6&theme=tokyonight"/>
 </table>
