@@ -7,33 +7,6 @@
 </table>
 
 ### Backend 
-<img
-  src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java&logoColor=white"
-  alt="java"
-/>
-<img
-  src="https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white"
-  alt="spring"
-/>
-<img
-  src="https://img.shields.io/badge/kotlin-black?style=for-the-badge&amp;logo=kotlin.js&amp;logoColor=white"
-  alt="kotlin"
-/>
-<img
-  src="https://img.shields.io/badge/kafka-red?style=for-the-badge&logo=apachekafka&logoColor=white"
-  alt="apachekafka"
-/>
-<img
-  src="https://img.shields.io/badge/.net-blue?style=for-the-badge&logo=.net&logoColor=white"
-  alt=".net"
-/>
-<img
-  src="https://img.shields.io/badge/gradle-blue?style=for-the-badge&logo=gradle&logoColor=white"
-  alt="gradle"
-/>
-<img
-  src="https://img.shields.io/badge/maven-orange?style=for-the-badge&logo=maven&logoColor=white"
-  alt="maven"
 />
 <p>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -41,15 +14,15 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/micronaut/micronaut-original.svg" width="40" height="40"/>
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
 </p>
 
 ### Databases
