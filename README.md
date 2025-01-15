@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/DuhBorba/DuhBorba/blob/master/programming.gif"></p>
+<p align="center"><img src="[https://github.com/DuhBorba/DuhBorba/blob/master/programming.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IxamhwbGJseWVscGpoMXYwYXp4czVtaXo3NXBwOWJzcHhkbzVyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)"></p>
 
 <table>
  <p>
