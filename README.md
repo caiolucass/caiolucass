@@ -15,6 +15,13 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
 </p>
 
+
+### Tests
+<p>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mockito/mockito-original.svg" width="40" height="40"/>
+</p>
+
 ### Databases
 <p>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" />
