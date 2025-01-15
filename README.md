@@ -1,13 +1,5 @@
 <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IxamhwbGJseWVscGpoMXYwYXp4czVtaXo3NXBwOWJzcHhkbzVyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"></p>
 
-<table>
- <p>
- <a href="https://github.com/caiolucass">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiolucass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolucass&layout=compact&langs_count=6&theme=tokyonight"/>
-  <p>
-</table>
-
 ### Backend 
 <p>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
