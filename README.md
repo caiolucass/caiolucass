@@ -39,3 +39,12 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynatrace/dynatrace-original.svg" width="40" height="40"/>
 <p>
 
+<img height="20" alt="GIF" src="img/graphic.gif?raw=true"/>GitHub Stats:
+
+<div>
+    <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiolucass&theme=github_dark"/>
+    <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amaple28&theme=github_dark"/> -->
+    <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiolucass&theme=github_dark"/>
+    <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiolucass&theme=github_dark"/>
+</div> 
+
