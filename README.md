@@ -1,7 +1,7 @@
 <img height="20" alt="GIF" src="img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,java,spring,gradle,maven,apachekafka,kotlin,junit,mysql,sonarqube,oracle,postgresql,mongodb,mysql,aws,azure,jenkins,azure,gitlab,github,git,newrelic,dynatrace,idea,eclipse,git&theme=dark)](https://github.com/tandpfun/skill-icons)
+[![My Skills](https://skillicons.dev/icons?i=html,java,spring,gradle,maven,apachekafka,kotlin,junit,mysql,sonarqube,oracle,postgres,mongodb,mysql,aws,azure,jenkins,azure,gitlab,github,git,newrelic,dynatrace,idea,eclipse,git&theme=dark)](https://github.com/tandpfun/skill-icons)
 
 
 <img height="20" alt="GIF" src="img/graphic.gif?raw=true"/>GitHub Stats:
