@@ -2,7 +2,7 @@
 
 <div>
     <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiolucass&theme=github_dark"/>
-    <img alt="GitHub Stats" width="240px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiolucass&theme=github_dark"/>
-    <img alt="GitHub Top Langs" width="240px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiolucass&theme=github_dark"/>
+    <img alt="GitHub Stats" width="230px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiolucass&theme=github_dark"/>
+    <img alt="GitHub Top Langs" width="230px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiolucass&theme=github_dark"/>
 </div> 
 
