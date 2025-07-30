@@ -1,4 +1,4 @@
-![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,maven,kafka,kotlin,mysql,postgres,mongodb,aws,azure,jenkins,gitlab,github,githubactions,grafana,postman,kubernetes,elasticsearch,dynamodb,idea,terraform,redis,sqlite,git&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=aws,azure,dynamodb,elasticsearch,git,github,githubactions,gitlab,gradle,grafana,idea,java,jenkins,kafka,kotlin,kubernetes,maven,mongodb,mysql,postgres,postman,redis,spring,sqlite,terraform,git&theme=dark)
 
 <div>
     <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiolucass&theme=github_dark"/>
