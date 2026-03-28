@@ -6,10 +6,3 @@
 - 🎓 Bachelor's Degree in System Information at [Puc Minas](https://www.pucminas.br/campus/sao-gabriel/ensino/graduacao/Paginas/Sistemas-de-Informacao.aspx?moda=2&curso=243&local=0b60bfce-7234-4da0-931e-29bbec677486)
 
 ![My Skills](https://skillicons.dev/icons?i=aws,azure,dynamodb,docker,elasticsearch,git,github,githubactions,gitlab,gradle,grafana,idea,java,jenkins,kafka,kotlin,kubernetes,maven,mongodb,mysql,postgres,postman,redis,spring,sqlite,terraform,git&theme=dark)
-
-<div>
-    <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiolucass&theme=github_dark"/>
-    <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=caiolucass&theme=github_dark"/>
-    <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiolucass&theme=github_dark"/>
-</div> 
-
