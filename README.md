@@ -1,7 +1,7 @@
 ### Software Engineer
 
 - 📍 Living in Belo Horizonte, Minas Gerais, Brazil
-- 💼 Software Engineer at [Banco Inter](https://inter.co/)
+- 💼 Mid Software Engineer at [Banco Inter](https://inter.co/)
 - 📚 Postgraduate in Software Architecture at [Full  Ciclye](https://fullcycle.com.br/)
 - 🎓 Bachelor's Degree in System Information at [Puc Minas](https://www.pucminas.br/campus/sao-gabriel/ensino/graduacao/Paginas/Sistemas-de-Informacao.aspx?moda=2&curso=243&local=0b60bfce-7234-4da0-931e-29bbec677486)
 
