@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="[https://github.com/AnaLuizaBarro](https://github.com/caiolucass)s">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&colorcc0000&center=true&vCenter=true&width=620&lines=Backend+Developer;Java+%C2%B7+SpringBoot+%C2%B7+Micronaut;AWS%2C+Event+driven+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&colorcc0000&center=true&vCenter=true&width=620&lines=Java+Backend+Developer;Java+%C2%B7+SpringBoot+%C2%B7+Micronaut;AWS%2C+Event+driven+systems" alt="Typing SVG" />
   </a>
 </p>
 
